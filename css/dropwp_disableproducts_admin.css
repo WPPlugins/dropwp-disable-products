@@ -1,0 +1,117 @@
+#dropwp_disableproducts  .module-header {
+     background-color: #ff5757;
+     border-bottom: 4px solid #c43d3d;
+     box-shadow: 0 5px 0 rgba(0, 0, 0, 0.15);
+     height: 70px;
+     left: 0;
+     margin: 0 0 20px 0;
+     padding: 0;
+     width: 100%;
+     font-family:"Open Sans","Helvetica","Arial","sans-serif";
+     color:#fff;
+ }
+ #dropwp_disableproducts  .module-title-container {
+     width:58%;
+     float:left;
+     margin-left:10px;
+	 height: 100%;
+	 padding-top: 20px;
+ }
+#dropwp_disableproducts   .module-header .module-title {
+	 font-size: 150%;
+     margin-bottom:0;
+	 color:#fff;
+ }
+#dropwp_disableproducts   .module-header h3 {
+     margin-top:0;
+	 color:#fff;
+ }
+#dropwp_disableproducts   .module-toolbar {
+     float:right;
+     text-align: right;
+     width: 40%;
+ }
+
+ #dropwp_disableproducts  .module-toolbar li {
+     float: right;
+     list-style: outside none none;
+     text-align: center;
+     width: 31%;
+ }
+ #dropwp_disableproducts  .module-nav li a {
+     text-decoration:none;
+     color:#fff;
+ }
+ #dropwp_disableproducts  .module-nav li a:hover {
+     text-decoration:none;
+     color:#EEE;
+ }
+
+ #dropwp_disableproducts  .module-preheader {
+    width: 100%;
+ }
+
+ #dropwp_disableproducts  .module-preheader img{
+    width: 100%;
+ }
+
+ #dropwp_disableproducts  .module-footer{
+     margin-top: 30px;
+     width: 100%;
+ }
+
+ #dropwp_disableproducts  .module-footer img{
+     width: 100%;
+ }
+ #dropwp_disableproducts  .module-footer-left{
+     width: 63.2%;
+     float: left;
+ }
+ #dropwp_disableproducts  .module-footer-right{
+     width: 36.65%;
+     float: left;
+
+ }
+ #dropwp_disableproducts  .module-newsletter{
+     background-color: #ff5757;
+     border-top: 4px solid #c43d3d;
+     box-shadow: 0 -5px 0 rgba(0, 0, 0, 0.15);
+     color: #fff;
+     font-family: "Open Sans","Helvetica","Arial","sans-serif";
+     height: 80px;
+     left: 0;
+     margin: 0 0 20px;
+     padding: 0;
+     width: 100%;
+ }
+
+ #dropwp_disableproducts  .module-newsletter p {
+     padding-left: 10px !important;
+ 	color:#FFF;
+ }
+ #dropwp_disableproducts  .module-newsletter form p label {
+     color: #fff;
+     font-weight: normal;
+     text-shadow: none;
+ }
+ #dropwp_disableproducts  .module-newsletter ul li{
+     list-style: none;
+ }
+
+ #dropwp_disableproducts  .module-newsletter p.uppercase {
+     text-transform: uppercase;
+ }
+
+ #dropwp_disableproducts  .nobootstrap {
+     min-width: 1024px !important;
+ }
+
+#dropwp_disableproducts input[type=text] {
+     min-width: 300px;
+}
+
+#dropwp_disableproducts #dropwp_help {
+     border: 1px solid #c43d3d;
+     padding: 15px;
+     background-color: white;
+}
